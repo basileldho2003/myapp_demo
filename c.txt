@@ -1,2 +1,5 @@
 I am in master
 I am in mybranch1
+I am in mybranch1
+I am not alone.
+
